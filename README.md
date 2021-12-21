@@ -1,4 +1,4 @@
-# 12 days of Christmas
+# 12 Days of Christmas
 
 * Use recursion to write a function that prints out the lyrics for one verse
 * Write a function that prints out the lyrics for the entire song
